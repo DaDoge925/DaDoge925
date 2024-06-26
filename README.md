@@ -1,5 +1,5 @@
 h
-currently learning c++ and js although i eventually forget what i learn
+i wish i could code frfr
 
   
 <!---
